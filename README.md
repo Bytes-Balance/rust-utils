@@ -21,18 +21,16 @@ echo -e '\033]8;;https://github.com/sponsors/NickLarsenNZ\033\\Kudos to Nick Lar
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hyperlink-examples.git
-   cd hyperlink-examples
+   git clone https://github.com/Bytes-Balance/rust-utils.git
    ```
 
-2. Navigate to the Rust example directory (if applicable) and run the program:
+2. Navigate to the directory and run the program:
 
    ```bash
-   cd rust_hyperlink
    cargo run --example hyperlink
    ```
 
-3. The Rust program will printm a clickable hyperlink in the terminal:
+3. The Rust program will print a clickable hyperlink in the terminal:
 
    ```plaintext
    Kudos to Nick Larsen for the code! Follow him on GitHub Sponsors!
